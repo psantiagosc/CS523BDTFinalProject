@@ -5,3 +5,4 @@ CS523 - Big Data Technology - Final Project
 	2. Source Code for Consumer
 	3. Source Code for SparkSQL
 	4. Slides for Presentation
+	5. Deployment Specification
