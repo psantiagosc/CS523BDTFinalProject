@@ -6,3 +6,4 @@ CS523 - Big Data Technology - Final Project
 	3. Source Code for SparkSQL
 	4. Slides for Presentation
 	5. Deployment Specification
+	6. Script and batch file
